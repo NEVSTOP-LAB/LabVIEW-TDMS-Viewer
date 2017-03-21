@@ -8,4 +8,5 @@ Functionality:
 	- Provide VI Package Manager  Package Configuration File (.vipc).
 
 Dependency:
+
 	- OpenG String Library
