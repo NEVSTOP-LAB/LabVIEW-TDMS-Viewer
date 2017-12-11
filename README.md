@@ -9,4 +9,5 @@ Functionality:
 
 Dependency:
 
-	- OpenG String Library
+	- [JKI State Machine](https://github.com/JKISoftware/JKI-State-Machine)
+	- OpenG Libraries
